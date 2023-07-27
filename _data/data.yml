@@ -61,9 +61,15 @@ career-profile:
     summary: |
         • General technologist with in-depth knowledge and experience spanning multiple paradigms (Windows/Linux Administration, Development and automation, network/datacenter planning).
         
-        • Experienced and familiar with DevOps tools including Docker, Kubernetes and building CI pipelines.
+        • Experienced and familiar with DevOps methodologies and tools.
         
         • A team player, organized, service oriented, with high self-learning capabilities, excellent interpersonal skills, and comprehensive systemic vision.
+
+        • Many years of RDBMS experience spanning MySQL/PostgreSQL/MSSQL building multiple products
+        
+        • Fast learner, career oriented, looking for long-term growth
+
+
 experiences:
     title: Experiences
     info:
@@ -71,13 +77,17 @@ experiences:
         time: 2016 - Present
         company: Giganet, Israel
         details: |
-            • **Managing company’s co-location facility–** Plan, build and maintain a highly-available, always on environment spanning multiple datacenters
+            • **Datacenter Administration–** Plan, build and maintain a highly-available, always on environment spanning multiple datacenters
 
-            • **Training/Mentoring** Introducing a training/mentoring program for all interested IT staff that eliminates dependency on external contractors
+            • **Training/Mentoring** - Introducing a training/mentoring program for all interested staff to eliminate dependency on external contractors
             
-            • **Developing in-house solutions for company’s needs** – Built several fullstack products (inhouse use) to answer business operational needs
+            • **Fullstack Development** – Built several fullstack products for internal use, in order to answer business operational needs
 
             • **Operational Monitoring** – Set up and maintain monitoring systems (Prometheus/Telegraf/InfluxDB/Grafana) for internal systems
+
+            • **CI/CD** - Built and maintained pipelines for multiple in-house products with ArgoCD, github actions and gitlab CI
+
+            • **Kubernetes** - Built and maintain Kubernetes clusters hosting internal services and monitoring systems
 
 
 projects:

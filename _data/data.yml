@@ -40,7 +40,11 @@ sidebar:
       info:
         - idiom: Rust
           level: Proficient
-        - idiom: Javascript
+        - idiom: TypeScript
+          level: Proficient
+        - idiom: JavaScript
+          level: Proficient
+        - idiom: C#
           level: Proficient
         - idiom: Go
           level: Intermediate
@@ -79,7 +83,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Some projects I've worked on over the years, some for me and some as freelance work
+      Some projects I've worked on over the years
     assignments:
       - title: cours.es
         link: "https://github.com/RoeeJ/coursedashboard"
@@ -92,46 +96,45 @@ projects:
         tagline: "An emulated game server for a MMORPG, based on an older open source project, highly customized and improved"
 
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: System Architecture
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Frontend Design
+        level: 80%
+      - name: Datacenter Planning
+        level: 85%
+      - name: Virtualization and Systems Management
+        level: 90%
+      - name: Troubleshooting 
+        level: 95%
+      - name: SQL/Relational Databases
+        level: 85%
+      - name: MongoDB
+        level: 85%
+      - name: Figma & Photoshop
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -119,20 +119,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: System Architecture
-        level: 85%
-      - name: Frontend Design
-        level: 80%
-      - name: Datacenter Planning
-        level: 85%
+      - name: Troubleshooting 
+        level: 100%
       - name: Virtualization and Systems Management
         level: 90%
-      - name: Troubleshooting 
-        level: 95%
-      - name: SQL/Relational Databases
+      - name: System Architecture
+        level: 85%
+      - name: Datacenter Planning
         level: 85%
       - name: MongoDB
         level: 85%
+      - name: SQL/Relational Databases
+        level: 80%
+      - name: Frontend Design
+        level: 65%
       - name: Figma & Photoshop
         level: 65%
 

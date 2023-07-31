@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: roeej@pm.me
-    phone: 052 380 2334
+    phone: (+972) 052 380 2334
     timezone: Asia/Jerusalem
     citizenship: Israeli
     website: rdg.cx #do not add http://
@@ -48,6 +48,8 @@ sidebar:
           level: Proficient
         - idiom: Java
           level: Proficient
+        - idiom: Python
+          level: Intermediate
         - idiom: Go
           level: Intermediate
 

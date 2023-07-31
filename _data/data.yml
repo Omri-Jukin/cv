@@ -46,6 +46,8 @@ sidebar:
           level: Proficient
         - idiom: C#
           level: Proficient
+        - idiom: Java
+          level: Proficient
         - idiom: Go
           level: Intermediate
 
@@ -77,13 +79,13 @@ experiences:
         time: 2016 - Present
         company: Giganet, Israel
         details: |
-            • **Datacenter Administration–** Plan, build and maintain a highly-available, always on environment spanning multiple datacenters
+            • **Datacenter Administration–** Plan, build and maintain a highly-available, always on environment spanning multiple datacenters serving hundreds of companies
 
             • **Training/Mentoring** - Introducing a training/mentoring program for all interested staff to eliminate dependency on external contractors
             
-            • **Fullstack Development** – Built several fullstack products for internal use, in order to answer business operational needs
+            • **Fullstack Development** – Built a distributed, full stack (Backend/Frontend/Distributed Agents), VOIP management system serving thousands of customers
 
-            • **Operational Monitoring** – Set up and maintain monitoring systems (Prometheus/Telegraf/InfluxDB/Grafana) for internal systems
+            • **Operational Monitoring** – Set up and maintain monitoring systems (Prometheus/Telegraf/InfluxDB/Grafana) for internal systems spanning hundreds of VMs
 
             • **CI/CD** - Built and maintained pipelines for multiple in-house products with ArgoCD, github actions and gitlab CI
 

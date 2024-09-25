@@ -8,17 +8,17 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Roee Jukin
-    tagline: General Technologist With a Passion for Automation
+    name: Omri Jukin
+    tagline: Electrical Practical Engineer, Full Stack Developer With a Passion For UI/UX
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: roeej@pm.me
-    phone: (+972) 052 380 2334
+    email: omrijukin@gmail.com
+    phone: (+972) 052 334 4064
     timezone: Asia/Jerusalem
     citizenship: Israeli
-    website: rdg.cx #do not add http://
-    github: roeej
+    website: snowhq.org #do not add http://
+    github: Omri-Jukin
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://roeej.github.io/cv/resume.pdf
+    pdf: https://snowhq.org/cv/resume.pdf
 
     languages:
       title: Languages
@@ -34,100 +34,94 @@ sidebar:
         - idiom: Hebrew
           level: Native
         - idiom: English
-          level: Native
+          level: Very Good
+
     planguages:
       title: Programming Languages
       info:
-        - idiom: Rust
-          level: Proficient
         - idiom: TypeScript
           level: Proficient
         - idiom: JavaScript
           level: Proficient
-        - idiom: C#
-          level: Proficient
-        - idiom: Java
-          level: Proficient
-        - idiom: Python
-          level: Intermediate
-        - idiom: Go
-          level: Intermediate
 
     interests:
       title: Interests
       info:
+        - item: Doing Magic
+        - item: Gaming
         - item: Stargazing
-        - item: Game Development
-        - item: Deep Learning
+        - item: Programming
 
 career-profile:
     title: Career Profile
     summary: |
-        • General technologist with in-depth knowledge and experience spanning multiple paradigms (Windows/Linux Administration, Development and automation, network/datacenter planning).
-        
-        • Experienced and familiar with DevOps methodologies and tools.
-        
-        • A team player, organized, service oriented, with high self-learning capabilities, excellent interpersonal skills, and comprehensive systemic vision.
+        • A few years in the Insurance industry, spanning from Customer Service to working on the core systems of the company.
 
-        • Many years of RDBMS experience spanning MySQL/PostgreSQL/MSSQL building multiple products
+        • A former Senior Customers Service Rep. and a Senior Public Inquiries Coordinator.
+
+        • A team player, organized, service oriented, with high self-learning capabilities, excellent interpersonal skills, and comprehensive systemic vision.
         
-        • Fast learner, career oriented, looking for long-term growth
+        • A fast learner, career oriented, looking for long-term growth
 
 
 experiences:
     title: Experiences
     info:
-      - role: CTO/Fullstack developer/Sr. System Administrator
-        time: 2016 - Present
-        company: Giganet, Israel
+      - role: Business Constitution Developer
+        time: 2023 - Present
+        company: Menora Mivtachim Insurance Company, Israel
         details: |
-            • **Datacenter Administration–** Plan, build and maintain a highly-available, always on environment spanning multiple datacenters serving hundreds of companies
+            • **Business Constitution** - Building and maintaining the business constitution system, which is a system that holds all the rules and regulations that goes into every policy.
 
-            • **Training/Mentoring** - Introducing a training/mentoring program for all interested staff to eliminate dependency on external contractors
-            
-            • **Fullstack Development** – Built a distributed, full stack (Backend/Frontend/Distributed Agents), VOIP management system serving thousands of customers
+            • **Training/Mentoring** - Training and mentoring new joiners into the team, teaching them the systems, processes and the culture of the company.
 
-            • **Operational Monitoring** – Set up and maintain monitoring systems (Prometheus/Telegraf/InfluxDB/Grafana) for internal systems spanning hundreds of VMs
+            • **New Products Development** - Building new products from scratch, with a focus on the business constitution system, and the integration with the rest of the system, taking into account the UI/UX.
 
-            • **CI/CD** - Built and maintained pipelines for multiple in-house products with ArgoCD, github actions and gitlab CI
+            • **Legacy System Maintenance** - Maintenance and fixing the legacy BC code, which is a monolith part of the system built in the early 1980s.
 
-            • **Kubernetes** - Built and maintain Kubernetes clusters hosting internal services and monitoring systems
+      - role: Senior Customers Service Representative
+        time: 2021 - 2023
+        company: Menora Mivtachim Insurance Company, Israel
+        details: |
+            • **Customers Service** - Providing the customers with the best service, and solving their issues and complaints.
 
+            • **Training/Mentoring** - Training and mentoring new joiners into the team, teaching them the systems, processes and the culture of the company.
+
+            • **Public Inquiries ** - Coordinating with the customers to solve their issues and complaints, and to provide them with the best service.
+
+            • **Internal Inquiries** - Coordinating with the internal departments to solve their issues and complaints, and to provide them with the best service.
+
+            • **New Workflow Protocol** - Coordinating with the management to create a new workflow protocol for the customers service team, and to provide them with the best training and support.
+
+      - role: Senior Public Inquiries Coordinator
+        time: 2020 - 2021
+        company: Menora Mivtachim Insurance Company, Israel
+        details: |
+            • **Public Inquiries** - Coordinating with the customers to solve their issues and complaints, and to provide them with the best service.
+
+            • **Training/Mentoring** - Training and mentoring new joiners into the team, teaching them the systems, processes and the culture of the company.
+
+            • **Internal Inquiries** - Coordinating with the internal departments to solve their issues and complaints, and to provide them with the best service.
+
+            • **New Workflow Protocol** - Coordinating with the management to create a new workflow protocol for the customers service team, and to provide them with the best training and support.
 
 projects:
     title: Projects
     intro: >
       Some projects I've worked on over the years
     assignments:
-      - title: cours.es
-        link: "https://github.com/RoeeJ/coursedashboard"
-        tagline: "Dashboard used for serving an android development course - not running anymore"
-      - title: NGNSA
-        link: "https://github.com/RoeeJ/ngnsa"
-        tagline: "Anticheat/remote memory editor used for a game server I ran"
-      - title: NGNS
-        link: "https://github.com/RoeeJ/ngns"
-        tagline: "An emulated game server for a MMORPG, based on an older open source project, highly customized and improved"
-
-
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Snow HQ
+        link: "https://github.com/Omri-Jukin/Snow"
+        tagline: "Full CRM system designed towards individuals and small businesses. - WIP"
+      - title: Clothest
+        link: "https://github.com/Omri-Jukin/Clothest"
+        tagline: "A simple to use online wardrobe management system. - not running anymore, Made with React and Express.JS"
+      - title: "Reddit Client"
+        link: "https://github.com/Omri-Jukin/reddit-client"
+        tagline: "Reddit client - not running anymore, made with React to test myself"
+      - title: Portfolio site
+        link: "https://github.com/Omri-Jukin/"
+        tagline: "Simple, static, front-end only page, made to represent myself"
 
 skills:
     title: Skills &amp; Proficiency
@@ -135,19 +129,15 @@ skills:
     toolset:
       - name: Troubleshooting 
         level: 100%
-      - name: Virtualization and Systems Management
+      - name: Frontend Design
+        level: 100%
+      - name: Backend Development
         level: 90%
-      - name: System Architecture
-        level: 85%
-      - name: Datacenter Planning
+      - name: SQL/Relational Databases
         level: 85%
       - name: MongoDB
-        level: 85%
-      - name: SQL/Relational Databases
-        level: 80%
-      - name: Frontend Design
-        level: 65%
-      - name: Figma & Photoshop
+        level: 70%
+      - name: 3D Design and Animation
         level: 65%
 
 footer: >

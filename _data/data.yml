@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://snowhq.org/cv/resume.pdf
+    pdf: https://omri-jukin.github.io/cv/resume.pdf
 
     languages:
       title: Languages
